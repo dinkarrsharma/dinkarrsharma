@@ -5,7 +5,7 @@
 I am a Data Scientist specializing in end-to-end Computer Vision systems. I own the full lifecycle of AI products—from problem formulation and deep learning model development to building high-performance real-time inference pipelines for production deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinkarrsharma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinkarr808@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmadinkarr@gmail.com)
 ---
 
 ### Core Expertise
